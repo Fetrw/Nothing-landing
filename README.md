@@ -28,6 +28,8 @@
 
 ![Mobile View](/src/examples/phone.gif)
 
+*🟨 Mobile version with fully responsive features, ensuring a smooth user experience.*
+
 *📱 Mobile version with fully responsive features, ensuring a smooth user experience.*
 
 > ## 🔗 Live Demo
