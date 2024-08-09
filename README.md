@@ -23,6 +23,7 @@
 *🟩 Desktop version of the landing page showcasing the clean and modern design.*
 
 ![Mobile View](/src/examples/phone.gif)
+
 *🟨 Mobile version with fully responsive features, ensuring a smooth user experience.*
 
 > ## 🟧 Live Demo
