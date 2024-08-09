@@ -4,8 +4,8 @@
     - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
 # [Nothing Landing Page](https://fetrw.github.io/Nothing-landing/)
 
-> ## 🔷 Overview
-> This is a modern, responsive landing page designed to provide a sleek and engaging user experience across various devices. The page is fully optimized for mobile, tablet, and desktop viewing. The design is based on the concept created in [Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-376&t=OrIGEF9hxm6FTBmq-0).
+> ## 🟦 Overview
+> This is a modern, responsive landing page designed to provide a sleek and engaging user experience across various devices. The page is fully optimized for mobile, tablet, and desktop viewing.
 
 > ## ✨ Features
 > - **📱 Responsive Design:** Adaptable layout ensuring consistent performance on all devices.
